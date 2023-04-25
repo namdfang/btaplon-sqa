@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Laptop88/Downloads/tax_management-master/tax_management-master/web/customers.jsp</file>
+            <file>file:/C:/Users/Laptop88/Downloads/tax_management-master/tax_management-master/test/DAO/CustomerDAOTest.java</file>
+            <file>file:/C:/Users/Laptop88/Downloads/tax_management-master/tax_management-master/src/java/DAO/DAO.java</file>
+            <file>file:/C:/Users/Laptop88/Downloads/tax_management-master/tax_management-master/src/java/Controller/Customer/DeleteCustomerServlet.java</file>
+            <file>file:/C:/Users/Laptop88/Downloads/tax_management-master/tax_management-master/test/DAO/UserDAOTest.java</file>
+            <file>file:/C:/Users/Laptop88/Downloads/tax_management-master/tax_management-master/web/shared/footer.jsp</file>
+            <file>file:/C:/Users/Laptop88/Downloads/tax_management-master/tax_management-master/src/java/Controller/Customer/EditCustomerServlet.java</file>
+            <file>file:/C:/Users/Laptop88/Downloads/tax_management-master/tax_management-master/src/java/Model/Customer.java</file>
+            <file>file:/C:/Users/Laptop88/Downloads/tax_management-master/tax_management-master/test/Utilities/UtilityTest.java</file>
+            <file>file:/C:/Users/Laptop88/Downloads/tax_management-master/tax_management-master/src/java/DAO/UserDAO.java</file>
+            <file>file:/C:/Users/Laptop88/Downloads/tax_management-master/tax_management-master/src/java/DAO/CustomerDAO.java</file>
+            <file>file:/C:/Users/Laptop88/Downloads/tax_management-master/tax_management-master/web/edit-customer.jsp</file>
+            <file>file:/C:/Users/Laptop88/Downloads/tax_management-master/tax_management-master/src/java/Controller/Customer/AddCustomerServlet.java</file>
+            <file>file:/C:/Users/Laptop88/Downloads/tax_management-master/tax_management-master/src/java/Controller/Customer/CustomersServlet.java</file>
+            <file>file:/C:/Users/Laptop88/Downloads/tax_management-master/tax_management-master/src/java/DAO/IncomeDAO.java</file>
+            <file>file:/C:/Users/Laptop88/Downloads/tax_management-master/tax_management-master/src/java/Controller/Customer/EditCustomerManagerServlet.java</file>
+            <file>file:/C:/Users/Laptop88/Downloads/tax_management-master/tax_management-master/web/add-customer.jsp</file>
+        </group>
+    </open-files>
+</project-private>
